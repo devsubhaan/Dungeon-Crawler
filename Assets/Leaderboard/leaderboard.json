@@ -1,0 +1,72 @@
+[
+    {
+        "rank": 1,
+        "username": "test123",
+        "score": 1510,
+        "time": 218.632,
+        "weight": 151188.0
+    },
+    {
+        "rank": 2,
+        "username": "Winner1",
+        "score": 1120,
+        "time": 92.831,
+        "weight": 112313.0
+    },
+    {
+        "rank": 3,
+        "username": "testing",
+        "score": 230,
+        "time": 76.288,
+        "weight": 23347.0
+    },
+    {
+        "rank": 4,
+        "username": "Testt123",
+        "score": 0,
+        "time": 270.827,
+        "weight": 162.0
+    },
+    {
+        "rank": 5,
+        "username": "Test123",
+        "score": null,
+        "time": null,
+        "weight": null
+    },
+    {
+        "rank": 6,
+        "username": "TestUser1",
+        "score": null,
+        "time": null,
+        "weight": null
+    },
+    {
+        "rank": 7,
+        "username": "Test124",
+        "score": null,
+        "time": null,
+        "weight": null
+    },
+    {
+        "rank": 8,
+        "username": "User_#1",
+        "score": null,
+        "time": null,
+        "weight": null
+    },
+    {
+        "rank": 9,
+        "username": "Testing",
+        "score": null,
+        "time": null,
+        "weight": null
+    },
+    {
+        "rank": 10,
+        "username": "Test321",
+        "score": null,
+        "time": null,
+        "weight": null
+    }
+]
