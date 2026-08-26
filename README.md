@@ -33,6 +33,13 @@ The main premise of the game is a character using guns to clear out dungeon room
 
 ---
 
+## 📚 Libraries & Frameworks
+* ![Pygame](https://img.shields.io/badge/Pygame-3670A0?style=for-the-badge&logo=python&logoColor=white) — Used for the core game loop/sprites
+* ![PyTMX](https://img.shields.io/badge/PyTMX-00599C?style=for-the-badge&logo=python&logoColor=white) — Used for the tile map
+* ![Tkinter](https://img.shields.io/badge/Tkinter-Built--in-green?style=for-the-badge&logo=python&logoColor=white) — Used for the main menu
+  
+---
+
 ## 🛠️ Requirements & Setup
 
 ### 1. Install Dependencies
